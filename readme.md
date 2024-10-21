@@ -18,4 +18,5 @@ This project is a conversion of an HTML template into a WordPress theme. The the
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-repo/html-to-wordpress-theme.git
+     git clone https://github.com/shivamisrani/Constra.git
+
